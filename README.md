@@ -2,7 +2,7 @@
 - 👀 I’m interested in Deep Learning, Generative AI, AGI, Human consiousness and computers in general
 - 🌱 I’m currently learning LLMs and GenAI
 - 💞️ I’m looking to collaborate on ML/DL/Parallel Processing/Cloud Computing
-- 📫 How to reach me akshay.pat04@gmail.com
+- 📫 How to reach me ... Remember me and I shall be seen...
 - 😄 Pronouns: Ask ChatGPT
 - ⚡ Fun fact: Trying to create some..
 

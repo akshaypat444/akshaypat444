@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @akshaypat444
+- 👋 Hi, I’m Akshay
 - 👀 I’m interested in Deep Learning, Generative AI, AGI, Human consiousness and computers in general
 - 🌱 I’m currently learning LLMs and GenAI
 - 💞️ I’m looking to collaborate on ML/DL/Parallel Processing/Cloud Computing
-- 📫 How to reach me ... Remember me and I shall be seen...
-- 😄 Pronouns: Ask ChatGPT
-- ⚡ Fun fact: Trying to create some..
+- ⚡ Fun fact: I have see magic. 
 
 <!---
 akshaypat444/akshaypat444 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

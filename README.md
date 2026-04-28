@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Akshay
 - 👀 I’m interested in Deep Learning, Generative AI, AGI, Human consiousness and computers in general
-- 🌱 I’m enjoy 3D Graphics Programming and Machine Learning (OpenGL, CUDA, OpenCL, GLSL)
-- 💞️ I’m looking to collaborate on ML/DL/Parallel Processing/Cloud Computing
+- 🌱 I enjoy 3D Graphics Programming and Machine Learning (OpenGL, CUDA, OpenCL, GLSL)
 - ⚡ Fun fact: I have broken into Matrix
 
 <!---
